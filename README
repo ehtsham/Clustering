@@ -1,0 +1,4 @@
+Take a list of urls of blogs or anyother corpus of documents and generate 
+clusters using single-linkage and kmeans algorithm. Visualize the clusters using
+Python Imaging Library
+
